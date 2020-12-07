@@ -1,5 +1,5 @@
 <head>
-  <title>Bootstrap Example</title>
+  <title>laravel-learning</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -12,6 +12,9 @@
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
   <ul class="navbar-nav">
     <li class="nav-item">
+      <img src="logo.gif" alt="logo" style="width:60px;">
+    </li>
+    <li class="nav-item">
       <a class="nav-link" href="/laravel/laravel-learning/public">Home</a>
     </li>
     <li class="nav-item">
@@ -23,4 +26,4 @@
   </ul>
 </nav>
 
-</body>
+</body>lo

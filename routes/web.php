@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\studentController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,3 +25,5 @@ Route::get('/laravelinfo', function () {
 Route::get('/testing', function () {
     return view('testing');
 });
+
+Route::resource('student',studentController::class);
