@@ -9,7 +9,7 @@
 <p style="text-align:center">On this page I am going to test database connection and a lot of other things.</p>
 
 <div class="container" style="text-align:center">
-  <a href="student/create">
-    <button type="btn btn-primary">CREATE A DATABASE INDEX</button><br>
+  <a href="student">
+    <button type="btn btn-primary">LIST OF STUDENTS</button><br>
   </a>
 </div>
